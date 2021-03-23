@@ -1,0 +1,23 @@
+{
+  "name": "yasmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "html-pdf": "^2.2.0",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "@types/html-pdf": "^2.2.0",
+    "@types/request": "^2.48.5"
+  }
+}
